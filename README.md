@@ -1,5 +1,5 @@
 
-<h1>Sorry But This repo has been excluded From Hacktoberfest 2022(I don't know why).<br> Thanks for your contribution</h1>
+<h1>Sorry But This repo has been excluded From Hacktoberfest 2022(I don't know why).<br> Thanks for your contribution and all the best for Hacktoberfest</h1>
 
 
 <h1>✨Hacktober Fest 2022✨</h1>
